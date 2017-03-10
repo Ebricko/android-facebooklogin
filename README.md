@@ -1,3 +1,1 @@
-"# android-languagedetection" 
-"# android-rateus" 
-"# android-rateus" 
+![alt tag](http://tecif.com/romerock/miniModuleBanner.png)
